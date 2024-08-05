@@ -7,10 +7,11 @@
   <a href="https://linkedin.com/in/othman-al-ghandour-26a90024a" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="mailto:othmanalghandour@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="margin-left: 20px;" alt="Gmail" height="40" width="40" />
+  <a href="mailto:othmanalghandour@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" height="40" width="40" />
   </a>
 </p>
+
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
@@ -35,9 +36,10 @@
 ---
 
 <h2 align="center">Languages and Tools:</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,html,css,bootstrap,github,git,vscode,figma,aws,mongodb,express,laravel,nodejs" alt="Languages and Tools" />
-</p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,redux,mui,html,css,vscode,github,figma,tailwind,git,talwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,laravel,mongodb,cpp,nextjs,mysql" /><br>
+</div>
 
 ---
 
