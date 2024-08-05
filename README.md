@@ -41,11 +41,9 @@
 
 ---
 
-<h2 align="center">My GitHub Stats</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=othmangh&show_icons=true&hide_title=false&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" width="45%" style="min-width: 300px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othmangh&layout=compact&hide_title=false&theme=radical" alt="Top Languages" width="45%" style="min-width: 300px;" />
-    
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=othmangh&theme=radical" alt="GitHub Streak" width="90%" style="min-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othmangh&layout=compact&hide_title=false&theme=radical" alt="Top Languages" style="width: 300px; height: 200px; object-fit: cover;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=othmangh&theme=radical" alt="GitHub Streak" style="width: 300px; height: 200px; object-fit: cover;" />
 </div>
 
