@@ -17,11 +17,20 @@
 <br><br>
 
 - 🌱 I’m currently improving my skills in **React, Next.js & TypeScript**
+
+<br>
+
 - 💬 Ask me about **Full-Stack Development**
+
+<br>
+
 - 📫 How to reach me: [othmanalghandour@gmail.com](mailto:othmanalghandour@gmail.com)
+
+<br>
+
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1aw9UV53zH2-I5QL-y4ZA0fJPbi1JtzHi/view?usp=sharing)
 
-## <br/>
+<br>
 
 ---
 
@@ -32,15 +41,11 @@
 
 ---
 
-<h2 align="center">My GitHub Stats:</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: auto;">
-  <div style="flex: 1 1 calc(50% - 20px); max-width: 450px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=othmangh&show_icons=true&hide_title=false&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" style="width: 100%; max-height: 300px; object-fit: contain;" />
-  </div>
-  <div style="flex: 1 1 calc(50% - 20px); max-width: 450px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othmangh&layout=compact&hide_title=false&theme=radical" alt="Top Languages" style="width: 100%; max-height: 300px; object-fit: contain;" />
-  </div>
-  <div style="flex: 1 1 100%; max-width: 900px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=othmangh&theme=radical" alt="GitHub Streak" style="width: 100%; height: auto;" />
-  </div>
+<h2 align="center">My GitHub Stats</h2>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=othmangh&show_icons=true&hide_title=false&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" width="45%" style="min-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othmangh&layout=compact&hide_title=false&theme=radical" alt="Top Languages" width="45%" style="min-width: 300px;" />
+    
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=othmangh&theme=radical" alt="GitHub Streak" width="90%" style="min-width: 300px;" />
 </div>
+
