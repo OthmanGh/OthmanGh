@@ -1,37 +1,45 @@
+<h1 align="center">Hi 👋, I'm Othman Al Ghandour</h1>
+<br/>
+
+<p align="center">🔗 Bridging Frontend and Backend: Full Stack Developer Dedicated to Building Dynamic and Scalable Solutions 🚀</p>
+<br/>
+
 ![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
 
-<h1 align="center">Hi 👋, I'm Othman Al Ghandour</h1>
+<br/>
+<br/>
 
-<h3 align="center">A passionate Full-Stack Developer from Lebanon</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/othman-al-ghandour-26a90024a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
+
+<div align="center"> 
   <a href="mailto:othmanalghandour@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-</p>
-
-<br>
+  <a href="https://www.linkedin.com/in/othman-al-ghandour-26a90024a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <br><br>
 
-- 🌱 I’m currently improving my skills in **React, Next.js & TypeScript**
+- 🌱 I’m currently learning Full Stack Web Development
 
-<br>
+<br/>
 
-- 💬 Ask me about **Full-Stack Development**
+- 💬 Ask me about Node.js Laravel, React.js, and Express
 
-<br>
+<br/>
 
 - 📫 How to reach me: [othmanalghandour@gmail.com](mailto:othmanalghandour@gmail.com)
 
-<br>
+<br/>
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1aw9UV53zH2-I5QL-y4ZA0fJPbi1JtzHi/view?usp=sharing)
 
-<br>
+<br/>
+
+- 🌟 Fun fact: The world's first website is still online! It was created by Tim Berners-Lee in 1991 and is available at http://info.cern.ch
+<br/>
 
 ---
 
@@ -44,8 +52,17 @@
 ---
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othmangh&layout=compact&hide_title=false&theme=radical" alt="Top Languages" style="width: 300px; height: 200px; object-fit: cover;" />
+
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=othmangh&theme=radical" alt="GitHub Streak" style="width: 300px; height: 200px; object-fit: cover;" />
+
+  <!-- General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=othmangh&show_icons=true&count_private=true&hide_title=false&theme=radical" alt="GitHub Stats" style="width: 300px; height: 200px; object-fit: cover;" />
+
 </div>
+
 
