@@ -34,7 +34,7 @@
 
 <br/>
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/19zS_QT5KglyjiZHNlAV4OWJMPH9GbqB1/view)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1xHEo6gmdsnvyMGXzpWY7xyAeyUn03Zn8/view?usp=drive_link)
 
 <br/>
 
