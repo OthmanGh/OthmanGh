@@ -26,7 +26,7 @@
 
 <br/>
 
-- 💬 Ask me about Node.js Laravel, React.js, and Express
+- 💬 Ask me about Node.js Django, Next.js, and Express
 
 <br/>
 
@@ -34,7 +34,7 @@
 
 <br/>
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1xHEo6gmdsnvyMGXzpWY7xyAeyUn03Zn8/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1JRPDdUmgaQMSrlleLpN9fD2Hq_w_OZKV/view?usp=sharing)
 
 <br/>
 
